@@ -6,7 +6,8 @@ from gtts import gTTS
 # pip install pyaudio
 # pip install pydub
 # pip install pandas
-# pip install gTTS
+# pip install gTTS 
+# worthless comment
 
 
 def textToSpeech(text, filename):
